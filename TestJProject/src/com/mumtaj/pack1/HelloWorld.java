@@ -10,8 +10,12 @@ public class HelloWorld {
 		
 		PersonalDetails pd = new PersonalDetails("Mumtaj", "CA", "train");
 
+		/**
+		 * prints the personal details
+		 */
 		pd.printDetails();
 		
+		// sets the values
 		pd.setName("mumtaj2");
 		pd.setCountry("canada");
 		pd.setCommute("plane");
