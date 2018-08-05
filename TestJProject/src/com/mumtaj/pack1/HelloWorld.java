@@ -22,6 +22,13 @@ public class HelloWorld {
 		
 		pd.printDetails();
 		
+		
+		pd.setName("mumtaj4");
+		pd.setCountry("canada");
+		pd.setCommute("train");
+		
+		pd.printDetails();
+		
 	}
 
 }
