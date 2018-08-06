@@ -12,7 +12,7 @@ public class Food {
 		System.out.println("sandwich");
 	}
 	
-	public void dinner()
+	public void dinnerPack3()
 	{
 		System.out.println("salad");
 	}
