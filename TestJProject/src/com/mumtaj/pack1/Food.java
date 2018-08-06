@@ -1,4 +1,4 @@
-package com.mumtaj.pack3;
+package com.mumtaj.pack1;
 
 public class Food {
 	
