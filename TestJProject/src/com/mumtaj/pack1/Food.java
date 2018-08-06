@@ -15,7 +15,8 @@ public class Food {
 	
 	public void dinner()
 	{
-		System.out.println("salad");
+		System.out.println("salad ");
+		System.out.println("and olives ");
 	}
 
 }
